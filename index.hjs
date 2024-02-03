@@ -1,0 +1,968 @@
+<!---------------------------------------
+    Create by: © Creative CV.
+    Modifed by: Mauricio Lopez
+    Stars to modifie at: Aug 1, 2021
+    Last modifie at: Dec 14, 2021
+    ---------------------------------------->
+    <!DOCTYPE html>
+    <html lang="en-US">
+      <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Mauricio Lopez</title>
+        <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700,200" rel="stylesheet">
+        <link href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" rel="stylesheet">
+        <link href="css/aos.css?ver=1.1.0" rel="stylesheet">
+        <link href="css/bootstrap.min.css?ver=1.1.0" rel="stylesheet">
+        <link href="css/main.css?ver=1.1.0" rel="stylesheet">
+        <noscript>
+          <style type="text/css">
+            [data-aos] {
+                opacity: 1 !important;
+                transform: translate(0) scale(1) !important;
+            }
+          </style>
+        </noscript>
+      </head>
+      <body id="top">
+        <header>
+          <div class="profile-page sidebar-collapse">
+            <nav class="navbar navbar-expand-lg fixed-top navbar-transparent bg-primary" color-on-scroll="400">
+              <div class="container">
+                <div class="navbar-translate"><a class="navbar-brand" href="#" rel="tooltip">Mauricio's CV</a>
+                  <button class="navbar-toggler navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation" aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-bar bar1"></span><span class="navbar-toggler-bar bar2"></span><span class="navbar-toggler-bar bar3"></span></button>
+                </div>
+                <div class="collapse navbar-collapse justify-content-end" id="navigation">
+                  <ul class="navbar-nav">
+                    <li class="nav-item"><a class="nav-link smooth-scroll" href="#about">About</a></li>
+                    <li class="nav-item"><a class="nav-link smooth-scroll" href="#skill">Skills</a></li>
+                    <li class="nav-item"><a class="nav-link smooth-scroll" href="#portfolio">Portfolio</a></li>
+                    <li class="nav-item"><a class="nav-link smooth-scroll" href="#experience">Experience</a></li>
+                    <li class="nav-item"><a class="nav-link smooth-scroll" href="#reference">References</a></li>
+                  </ul>
+                </div>
+              </div>
+            </nav>
+          </div>
+        </header>
+        <div class="page-content">
+          <div>
+    <!--Principal information-->
+    <div class="profile-page">
+      <div class="wrapper">
+        <div class="page-header page-header-small" filter-color="green">
+          <div class="page-header-image" data-parallax="true" style="background-image: url('images/BackGround.jpg')"></div>
+          <div class="container">
+            <div class="content-center">
+              <div class="cc-profile-image"><a href="#"><img src="images/mauro.png" alt="Image"/></a></div>
+              <div class="h2 title">Mauricio Alejandro Lopez Monserratt</div>
+              <p class="category text-white">Systems engineering student, Technical Associate, Freelancer video game developer</p>
+              <!--<a class="btn btn-primary smooth-scroll mr-2" href="#contact" data-aos="zoom-in" data-aos-anchor="data-aos-anchor">Hire Me</a>-->
+              <a class="btn btn-primary" href="PDF/Mauricio_Lopez_CV.pdf" download="Mauricio_CV.pdf" data-aos="zoom-in" data-aos-anchor="data-aos-anchor">Download CV</a>
+            </div>
+          </div>
+          <!--Botones de redes sociales-->
+          <div class="section">
+            <div class="container">
+              <div class="button-container">
+                <a class="btn btn-default btn-round btn-lg btn-icon btn-facebook"   target="_Blank" href="https://www.facebook.com/mauricioalejandro.lopezmonserratt"      rel="tooltip" title="Follow me on Facebook"><i class="fa fa-facebook"></i></a>
+                <a class="btn btn-default btn-round btn-lg btn-icon btn-twitter"    target="_Blank" href="https://twitter.com/ImMaur0103"                                  rel="tooltip" title="Follow me on Twitter"><i class="fa fa-twitter"></i></a>
+                <a class="btn btn-default btn-round btn-lg btn-icon btn-instagram"  target="_Blank" href="https://www.instagram.com/mauricio_lopez0103/"                   rel="tooltip" title="Follow me on Instagram"><i class="fa fa-instagram"></i></a>
+                <a class="btn btn-default btn-round btn-lg btn-icon btn-linkedin"   target="_Blank" href="https://www.linkedin.com/in/mauricio-alejandro-lopez-445134197/" rel="tooltip" title="Follow me on LinkedIn"><i class="fa fa-linkedin"></i></a>
+                <a class="btn btn-default btn-round btn-lg btn-icon btn-GitHub"     target="_Blank" href="https://github.com/ImMaur0103"                                   rel="tooltip" title="See me on GitHub"><i class="fa fa-github"></i></a>
+                <a class="btn btn-default btn-round btn-lg btn-icon btn-facebook"   target="_Blank" href="mailto:Mau_lopez0103@hotmail.com"                                rel="tooltip" title="Contact me at Email"><i class="fa fa-envelope"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!--About And Basic Info-->
+    <div class="section" id="about">
+      <div class="container">
+        <div class="card" data-aos="fade-up" data-aos-offset="10">
+          <div class="row">
+            <!--About me-->
+            <div class="col-lg-6 col-md-12">
+              <div class="card-body">
+                <div class="h4 mt-0 title">About</div>
+                <p>Hello World! I am Mauricio Lopez. Systems engineering student.</p>
+                <p>I'm Venezuelan, I live in Guatemala. I study at Rafael Landivar University.</p>
+                <p>One day I'll be a video game programmer, for now I'm studying to be a full stack</p>
+              </div>
+            </div>
+            <!--Basic Info-->
+            <div class="col-lg-6 col-md-12">
+              <div class="card-body">
+                <div class="h4 mt-0 title">Basic Information</div>
+                <div class="row">
+                  <div class="col-sm-4"><strong class="text-uppercase">Age:</strong></div>
+                  <div class="col-sm-8">22</div>
+                </div>
+                <div class="row mt-3">
+                  <div class="col-sm-4"><strong class="text-uppercase">Email:</strong></div>
+                  <div class="col-sm-8">Mau_lopez0103@hotmail.com</div>
+                </div>
+                <div class="row mt-3">
+                  <div class="col-sm-4"><strong class="text-uppercase">Phone:</strong></div>
+                  <div class="col-sm-8">+502 3112-9474</div>
+                </div>
+                <div class="row mt-3">
+                  <div class="col-sm-4"><strong class="text-uppercase">Address:</strong></div>
+                  <div class="col-sm-8">Ciudad de Guatemala, Carretera a El Salvador</div>
+                </div>
+                <div class="row mt-3">
+                  <div class="col-sm-4"><strong class="text-uppercase">Language:</strong></div>
+                  <div class="col-sm-8">Spanish, Some English</div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!--Skills-->
+    <div class="section" id="skill">
+      <div class="container">
+        <div class="h4 text-center mb-4 title">Professional Skills</div>
+        <div class="card" data-aos="fade-up" data-aos-anchor-placement="top-bottom">
+          <div class="card-body">
+            <!--.NET y C++-->
+            <div class="row">
+              <!--.NET o C#-->
+              <div class="col-md-6">
+                <div class="progress-container progress-primary"><span class="progress-badge">.NET</span>
+                  <div class="progress">
+                    <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 80%;"></div><span class="progress-value">80%</span>
+                  </div>
+                </div>
+              </div>
+              <!--C++-->
+              <div class="col-md-6">
+                <div class="progress-container progress-primary"><span class="progress-badge">C++</span>
+                  <div class="progress">
+                    <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%;"></div><span class="progress-value">60%</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <!--C y Java-->
+            <div class="row">
+              <!--C-->
+              <div class="col-md-6">
+                <div class="progress-container progress-primary"><span class="progress-badge">C</span>
+                  <div class="progress">
+                    <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 35%;"></div><span class="progress-value">35%</span>
+                  </div>
+                </div>
+              </div>
+              <!--Java-->
+              <div class="col-md-6">
+                <div class="progress-container progress-primary"><span class="progress-badge">Java</span>
+                  <div class="progress">
+                    <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 30%;"></div><span class="progress-value">30%</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <!--Python y assembler-->
+            <div class="row">
+              <!--Python-->
+              <div class="col-md-6">
+                <div class="progress-container progress-primary"><span class="progress-badge">Python</span>
+                  <div class="progress">
+                    <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 40%;"></div><span class="progress-value">40%</span>
+                  </div>
+                </div>
+              </div>
+              <!--assembler-->
+              <div class="col-md-6">
+                <div class="progress-container progress-primary"><span class="progress-badge">assembler</span>
+                  <div class="progress">
+                    <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%;"></div><span class="progress-value">60%</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <!--HTML y CSS-->
+            <div class="row">
+              <!--HTML-->
+              <div class="col-md-6">
+                <div class="progress-container progress-primary"><span class="progress-badge">HTML</span>
+                  <div class="progress">
+                    <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 50%;"></div><span class="progress-value">50%</span>
+                  </div>
+                </div>
+              </div>
+              <!--CSS-->
+              <div class="col-md-6">
+                <div class="progress-container progress-primary"><span class="progress-badge">CSS</span>
+                  <div class="progress">
+                    <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 40%;"></div><span class="progress-value">40%</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <!--RPAS y Power BI-->
+            <div class="row">
+              <!--Power Automate-->
+              <div class="col-md-6">
+                <div class="progress-container progress-primary"><span class="progress-badge">Power Automate</span>
+                  <div class="progress">
+                    <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 80%;"></div><span class="progress-value">80%</span>
+                  </div>
+                </div>
+              </div>
+              <!--Power BI-->
+              <div class="col-md-6">
+                <div class="progress-container progress-primary"><span class="progress-badge">Power BI</span>
+                  <div class="progress">
+                    <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%;"></div><span class="progress-value">60%</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <!--Games-->
+            <div class="row">
+              <!--Unity 2D-->
+              <div class="col-md-6">
+                <div class="progress-container progress-primary"><span class="progress-badge">Unity 2D</span>
+                  <div class="progress">
+                    <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 75%;"></div><span class="progress-value">75%</span>
+                  </div>
+                </div>
+              </div>
+              <!--Construct3 2D-->
+              <div class="col-md-6">
+                <div class="progress-container progress-primary"><span class="progress-badge">Construct3</span>
+                  <div class="progress">
+                    <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 50%;"></div><span class="progress-value">50%</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!--Portafolio-->
+    <div class="section" id="portfolio">
+      <div class="container">
+        <!--Botones de informacion-->
+        <div class="row">
+          <div class="col-md-6 ml-auto mr-auto">
+            <div class="h4 text-center mb-4 title">Portfolio</div>
+            <div class="nav-align-center">
+              <ul class="nav nav-pills nav-pills-primary" role="tablist">
+                <li class="nav-item"><a class="nav-link"         data-toggle="tab" href="#web-development" role="tablist"><i class="fa fa-chrome"  aria-hidden="true"></i></a></li>
+                <li class="nav-item"><a class="nav-link"         data-toggle="tab" href="#gamedev"         role="tablist"><i class="fa fa-gamepad" aria-hidden="true"></i></a></li>
+                <li class="nav-item"><a class="nav-link"         data-toggle="tab" href="#develoment"      role="tablist"><i class="fa fa-laptop"  aria-hidden="true"></i></a></li>
+                <li class="nav-item"><a class="nav-link active"  data-toggle="tab" href="#Certification"   role="tablist"><i class="fa fa-archive" aria-hidden="true"></i></a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <!--Informacion-->
+        <div class="tab-content gallery mt-5">
+          <!--Proyectos Web-->
+          <div class="tab-pane" id="web-development">
+            <div class="ml-auto mr-auto">
+              <div class="row">
+                <!--Columna Izquierda-->
+                <div class="col-md-6">
+                  <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a target="_blank" href="/images/Chat-Bot-Page.png">
+                      <figure class="cc-effect">
+                        <div class="topimg1">
+                          <figcaption>
+                            <div class="h4">Test Chat-Bot</div>
+                            <p>Web Development</p>
+                        </figcaption>
+                        </div>
+                      </figure></a></div>
+                  <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a target="_blank" href="/images/Centro_de_Vacunacion_Home_Page.png">
+                      <figure class="cc-effect">
+                        <div class="topimg2">
+                          <figcaption>
+                            <div class="h4">Centro de Vacunacion</div>
+                            <p>Web Development. Repo:Proyecto de Estructuras</p>
+                          </figcaption>
+                        </div>
+                      </figure></a></div>
+                </div>
+                <!--Columna Derecha-->
+                <div class="col-md-6">
+                  <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a target="_blank" href="/images/Farmacia_Inventario.png">
+                      <figure class="cc-effect">
+                        <div class="topimg3">
+                          <figcaption>
+                            <div class="h4">Farmacy</div>
+                            <p>Web Development for a farmacy page</p>
+                          </figcaption>
+                        </div>
+                      </figure></a></div>
+                  <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a target="_blank" href="/images/Listado de jugadors.png">
+                      <figure class="cc-effect"><img src="images/Listado de jugadors.png" alt="Image"/>
+                        <figcaption>
+                          <div class="h4">Data structure Project</div>
+                          <p>Web Development</p>
+                        </figcaption>
+                      </figure></a></div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!--Proyectos de juegos-->
+          <div class="tab-pane" id="gamedev" role="tabpanel">
+            <div class="ml-auto mr-auto">
+              <div class="row">
+                <!--Columna Izquierda-->
+                <div class="col-md-6">
+                  <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a target="_blank" href="images/CursoUnity.gif">
+                      <figure class="cc-effect"><img src="images/CursoUnity.gif" alt="Image"/>
+                        <figcaption>
+                          <div class="h4">Unity Course</div>
+                          <p>First Player programed</p>
+                        </figcaption>
+                      </figure></a></div>
+                  <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a target="_blank" href="images/EstudioUnity.gif">
+                      <figure class="cc-effect"><img src="images/EstudioUnity.gif" alt="Image"/>
+                        <figcaption>
+                          <div class="h4">Unity Game</div>
+                          <p>one player and one enemy programed</p>
+                        </figcaption>
+                      </figure></a></div>
+                  <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a target="_blank" href="images/BunnyGame.gif">
+                      <figure class="cc-effect"><img src="images/BunnyGame.gif" alt="Image"/>
+                        <figcaption>
+                          <div class="h4">Unity Game</div>
+                          <p>Bunny game to practice</p>
+                        </figcaption>
+                      </figure></a></div>
+                </div>
+                <!--Columna Derecha-->
+                <div class="col-md-6">
+                  <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a target="_blank" href="images/TheLastSurvivors.gif">
+                      <figure class="cc-effect"><img src="images/TheLastSurvivors.gif" alt="Image"/>
+                        <figcaption>
+                          <div class="h4">The Last Survivors Construct3</div>
+                          <p>Game Design whit Andres Galvez</p>
+                        </figcaption>
+                      </figure></a></div>
+                  <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a target="_blank" href="images/Minecraft Survivals.gif">
+                      <figure class="cc-effect"><img src="images/Minecraft Survivals.gif" alt="Image"/>
+                        <figcaption>
+                          <div class="h4">MineSurvivors Construct3</div>
+                          <p>Game Design whit Andres Galvez</p>
+                        </figcaption>
+                      </figure></a></div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!--Proyectos de escritorio-->
+          <div class="tab-pane" id="develoment" role="tabpanel">
+            <div class="ml-auto mr-auto">
+              <div class="row">
+                <!--Columna Izquierda-->
+                <div class="col-md-6">
+                  <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a target="_blank" href="images/Diky.png">
+                      <figure class="cc-effect"><img src="images/Diky.png" alt="Image"/>
+                        <figcaption>
+                          <div class="h4">Programa multi tareas</div>
+                          <p>Freelancer develoment</p>
+                        </figcaption>
+                      </figure></a></div>
+                  <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a target="_blank" href="images/Salva a celestia.png">
+                      <figure class="cc-effect"><img src="images/Salva a celestia.png" alt="Image"/>
+                        <figcaption>
+                          <div class="h4">Salva a celestia</div>
+                          <p>Freelancer game develoment</p>
+                        </figcaption>
+                      </figure></a></div>
+                  <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a target="_blank" href="images/StoreGrid.png">
+                      <figure class="cc-effect"><img src="images/StoreGrid.png" alt="Image"/>
+                        <figcaption>
+                          <div class="h4">wineryGrid</div>
+                          <p>Project to University in C++/CLR is for manage a winery</p>
+                        </figcaption>
+                      </figure></a></div>
+                </div>
+                <!--Columna Derecha-->
+                <div class="col-md-6">
+                  <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a target="_blank" href="images/ColorMania.png">
+                      <figure class="cc-effect"><img src="images/ColorMania.png" alt="Image"/>
+                        <figcaption>
+                          <div class="h4">Color Mania</div>
+                          <p>Project to order colors at University</p>
+                        </figcaption>
+                      </figure></a></div>
+                  <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a target="_blank" href="images/Mario_Croses.png">
+                      <figure class="cc-effect"><img src="images/Mario_Croses.png" alt="Image"/>
+                        <figcaption>
+                          <div class="h4">Mario Croses</div>
+                          <p>Desktop game for class</p>
+                        </figcaption>
+                      </figure></a></div>
+                  <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a target="_blank" href="images/CalendarioV1.png">
+                      <figure class="cc-effect"><img src="images/CalendarioV1.png" alt="Image"/>
+                        <figcaption>
+                          <div class="h4">Calendar V1</div>
+                          <p>Calendar create in C++/CLR</p>
+                        </figcaption>
+                      </figure></a></div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!--Certificaciones-->
+          <div class="tab-pane active" id="Certification" role="tabpanel">
+            <div class="ml-auto mr-auto">
+              <div class="row">
+                <!--Columna Izquierda-->
+                <div class="col-md-6">
+                  <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a target="_blank" href="/images/PCEP.png">
+                      <figure class="cc-effect"><img src="images/ems-technical-expert.png" alt="Image"/>
+                        <figcaption>
+                          <div class="h4">EMS Technical Expert</div>
+                          <p>Celonis Academy</p>
+                        </figcaption>
+                      </figure></a></div>
+                  <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a target="_blank" href="images/certificate_xHVa.Y3Hr.h7Q8.jpg">
+                      <figure class="cc-effect"><img src="images/certified-to-write-pql-queries.png" alt="Image"/>
+                        <figcaption>
+                          <div class="h4">Certified to Write PQL Queries</div>
+                          <p>Celonis Academy</p>
+                        </figcaption>
+                      </figure></a></div>
+                  <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a target="_blanck" href="/images/LinkedInCeritificacion.png">
+                      <figure class="cc-effect"><img src="images/certified-to-get-data-into-the-ems.png" alt="Image"/>
+                        <figcaption>
+                          <div class="h4">Get Data Into the EMS</div>
+                          <p>Celonis Academy</p>
+                        </figcaption>
+                      </figure></a></div>
+                  <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a target="_blank" href="images/TitulodeBachiller.png">
+                      <figure class="cc-effect"><img src="images/TitulodeBachiller.png" alt="Image"/>
+                        <figcaption>
+                          <div class="h4">bachelor's degree</div>
+                          <p>Colegio Pacairigua Dos Venezuela</p>
+                        </figcaption>
+                      </figure></a></div>
+                  <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a target="_blank" href="/images/ingles1.png">
+                    <figure class="cc-effect"><img src="images/ingles1.png" alt="Image"/>
+                      <figcaption>
+                        <div class="h4">Basic English level</div>
+                        <p>Academia Europea Guatemala</p>
+                      </figcaption>
+                    </figure></a></div>
+                  <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a target="_blanck" href="/images/ingles2.png">
+                    <figure class="cc-effect"><img src="images/ingles2.png" alt="Image"/>
+                      <figcaption>
+                        <div class="h4">Intermediate English level</div>
+                        <p>Academia Europea Guatemala</p>
+                      </figcaption>
+                    </figure></a></div>
+                  <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a target="_blank" href="/images/ingles3.png">
+                      <figure class="cc-effect"><img src="images/ingles3.png" alt="Image"/>
+                        <figcaption>
+                          <div class="h4">Advanced English level</div>
+                          <p>Academia Europea Guatemala</p>
+                        </figcaption>
+                      </figure></a></div>
+                </div>
+                <!--Columna Derecha-->
+                <div class="col-md-6">
+                  <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a target="_blank" href="/images/PCEP.png">
+                      <figure class="cc-effect"><img src="images/certified-to-build-analyses.png" alt="Image"/>
+                        <figcaption>
+                          <div class="h4">Certified to Build Analyses</div>
+                          <p>Celonis Academy</p>
+                        </figcaption>
+                      </figure></a></div>
+                  <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a target="_blank" href="images/certificate_xHVa.Y3Hr.h7Q8.jpg">
+                      <figure class="cc-effect"><img src="images/certified-to-build-action-flows.png" alt="Image"/>
+                        <figcaption>
+                          <div class="h4">Certified to Build Action Flows</div>
+                          <p>Celonis Academy</p>
+                        </figcaption>
+                      </figure></a></div>
+                  <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a target="_blanck" href="/images/LinkedInCeritificacion.png">
+                      <figure class="cc-effect"><img src="images/certified-to-build-knowledge-models-and-views.png" alt="Image"/>
+                        <figcaption>
+                          <div class="h4">Build Knowledge Models and Views</div>
+                          <p>Celonis Academy</p>
+                        </figcaption>
+                      </figure></a></div>
+                  <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a target="_blank" href="/images/PCEP.png">
+                      <figure class="cc-effect"><img src="images/PCEP.png" alt="Image"/>
+                        <figcaption>
+                          <div class="h4">PCEP</div>
+                          <p>Python Institute</p>
+                        </figcaption>
+                      </figure></a></div>
+                  <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a target="_blank" href="images/certificate_xHVa.Y3Hr.h7Q8.jpg">
+                      <figure class="cc-effect"><img src="images/certificate_xHVa.Y3Hr.h7Q8.jpg" alt="Image"/>
+                        <figcaption>
+                          <div class="h4">CLE</div>
+                          <p>C++ Institute</p>
+                        </figcaption>
+                      </figure></a></div>
+                  <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a target="_blanck" href="/images/LinkedInCeritificacion.png">
+                      <figure class="cc-effect"><img src="images/LinkedInCeritificacion.png" alt="Image"/>
+                        <figcaption>
+                          <div class="h4">Introducción a algoritmos para programación</div>
+                          <p>LinkedIn</p>
+                        </figcaption>
+                      </figure></a></div>
+                  <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a target="_blanck" href="images/Certificado BAM.jpg">
+                      <figure class="cc-effect"><img src="images/Certificado BAM.jpg" alt="Image"/>
+                        <figcaption>
+                          <div class="h4">Internship certificate at <br/> Agromercantil Bank</div>
+                          <p>Banco Agromercantil</p>
+                        </figcaption>
+                      </figure></a></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Experiencia-->
+      <!--Experiencia laboral-->
+    <div class="section" id="experience">
+      <div class="container cc-experience">
+        <div class="h4 text-center mb-4 title">Work Experience</div>
+        <div class="card">
+          <div class="row">
+            <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
+              <div class="card-body cc-experience-header">
+                <p>Nobember 2021 - Present</p>
+                <div class="h5">Vivo Consulting<img src="images/logo-circulo-vivo.png"/></div>
+              </div>
+            </div>
+            <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
+              <div class="card-body">
+                <div class="h5">Technical Associate - Strategic & Procurement Solutions</div>
+                <p>Expertos en generación de estrategias digitales para la gestión del gasto, especializados en servicios de eSourcing.</p>
+                <a class="btn btn-success btn-round btn-lg btn-icon btn-linkedin"  target="_Blank" href="https://www.linkedin.com/company/vivoconsulting/mycompany/"><i class="fa fa-linkedin fa-4x"    aria-hidden="true"></i></a>
+                <a class="btn btn-success btn-round btn-lg btn-icon btn-linkedin"  target="_Blank" href="https://vivoconsulting.com/"><i class="fa fa-globe fa-3x"    aria-hidden="true"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="card">
+          <div class="row">
+            <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
+              <div class="card-body cc-experience-header">
+                <p>April 2021 - October 2021</p>
+                <div class="h5">Banco Agromercantil<img src="images/BAM.png"/></div>
+              </div>
+            </div>
+            <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
+              <div class="card-body">
+                <div class="h5">intern at BAM</div>
+                <p>Trainee student of the Analytical and Legaltech Unit of the Legal Vice Presidency.
+                  Creation of automations of legal documents using Power Automate and Microsoft Suite, creation of demo for Chatbot using Visual Studio and the C # language, 
+                  and Use of data analysis tools such as power bi and power query</p>
+                <a class="btn btn-success btn-round btn-lg btn-icon btn-linkedin"  target="_Blank" href="https://www.linkedin.com/company/bam-gt/"><i class="fa fa-linkedin fa-4x"    aria-hidden="true"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="card">
+          <div class="row">
+            <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
+              <div class="card-body cc-experience-header">
+                <p>august 2019 - Present</p>
+                <div class="h5">freelance project</div>
+              </div>
+            </div>
+            <div class="col-md-9" data-aos="fade-left" data-a1os-offset="50" data-aos-duration="500">
+              <div class="card-body">
+                <div class="h5">freelance</div>
+                <p>Custom projects that meet customer requirements and are stored on GitHub.
+                  <br>Name of some projects:
+                  <br>• Multi Tasks Project
+                  <br>• Save selestia V1
+                  <br>• Elections</p>
+                  <a class="btn btn-success btn-round btn-lg btn-icon btn-GitHub"  target="_Blank" href="https://github.com/ImMaur0103"><i class="fa fa-github fa-4x"    aria-hidden="true"></i></a>
+                  <!--Fiver<a class="cc-linkedin btn btn-link"  target="_Blank" href="https://vivoconsulting.com/"><i class="fa fa-globe fa-3x"    aria-hidden="true"></i></a>-->
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+      <!--Experiencia Estudiantil-->
+    <div class="section">
+      <div class="container cc-education">
+        <div class="h4 text-center mb-4 title">Education</div>
+        <div class="card">
+          <div class="row">
+            <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
+              <div class="card-body cc-education-header">
+                <p>2018 - Present</p>
+                <div class="h5">college career</div>
+              </div>
+            </div>
+            <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
+              <div class="card-body">
+                <div class="h5">systems engineering</div>
+                <p class="category">University Rafael Landivar</p>
+                <p>They include a strong component of programming techniques, file and database management, computer networks and distributed processing
+                  , operating systems, systems analysis and design, computer architecture, Internet programming, among others, the Landivarian 
+                  engineer is characterized by possess solid managerial, administrative and financial knowledge, which prepare them to function 
+                  professionally in an environment characterized by rewarding initiative and creative entrepreneurship.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="card">
+          <div class="row">
+            <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
+              <div class="card-body cc-education-header">
+                <p>2015 - 2017</p>
+                <div class="h5">High School</div>
+              </div>
+            </div>
+            <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
+              <div class="card-body">
+                <div class="h5">Bachelor of Science</div>
+                <p class="category">School Pacairigua Dos</p>
+                <p>Second best in class with 82 average.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+      <!--Certificaciones-->
+    <div class="section">
+      <div class="container cc-education">
+        <div class="h4 text-center mb-4 title">Certifications / Courses</div>
+        <div class="card">
+          <div class="row">
+            <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
+              <div class="card-body cc-education-header">
+                <p>received - July 2023</p>
+                <div class="h3">EMS Technical Expert</div>
+              </div>
+            </div>
+            <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
+              <div class="card-body">
+                <div class="h5">Certified EMS Technical Expert</div>
+                <p class="category">Celonis Academy</p>
+                <p>The EMS Technical Expert successfully performs all
+                  product-focused tasks within end-to-end Celonis
+                  projects.</p>
+                  <a class="btn btn-success btn-round btn-lg btn-icon btn-Certificate"  target="_Blank" href="https://www.credly.com/badges/42300f7c-7295-48f5-98ec-52f76c539fe7/public_url"><i class="fa fa-certificate fa-4x"    aria-hidden="true"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="card">
+          <div class="row">
+            <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
+              <div class="card-body cc-education-header">
+                <p>received - July 2023</p>
+                <div class="h3">Get Data Into the EMS</div>
+              </div>
+            </div>
+            <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
+              <div class="card-body">
+                <div class="h5">Certified Get Data Into the EMS</div>
+                <p class="category">Celonis Academy</p>
+                <p>-Connect to systems.
+                  -Extract data.
+                  -Transform data.
+                  -Set up and load a data model.
+                  -Schedule regular data loads.
+                  -Monitor and validate data.
+                  -Apply SQL performance best practices.</p>
+                  <a class="btn btn-success btn-round btn-lg btn-icon btn-Certificate"  target="_Blank" href="https://www.credly.com/badges/88089f11-4a2f-4b77-a06a-a1132fed1725/public_url"><i class="fa fa-certificate fa-4x"    aria-hidden="true"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="card">
+          <div class="row">
+            <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
+              <div class="card-body cc-education-header">
+                <p>received - July 2023</p>
+                <div class="h3">Certified to Write PQL Queries</div>
+              </div>
+            </div>
+            <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
+              <div class="card-body">
+                <div class="h5">Certified to Write PQL Queries</div>
+                <p class="category">Celonis Academy</p>
+                <p>-Get to know PQL and how to work with it in the code editor.
+                  -Become familiar with a standard set of PQL operators.
+                  -Understand joins and their effect on your queries
+                  -Use filters to zoom into specific parts of your data
+                  -Get to know use cases that can only be solved with PQL's PU-functions.
+                  -Apply PU-functions and domain tables where necessary</p>
+                  <a class="btn btn-success btn-round btn-lg btn-icon btn-Certificate"  target="_Blank" href="https://www.credly.com/badges/0d36dcdd-bc27-41f2-b6d5-73b177de2b4d/public_url"><i class="fa fa-certificate fa-4x"    aria-hidden="true"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="card">
+          <div class="row">
+          <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
+            <div class="card-body cc-education-header">
+              <p>received - July 2023</p>
+              <div class="h3">Build Knowledge Models and Views</div>
+            </div>
+          </div>
+          <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
+            <div class="card-body">
+              <div class="h5">Certified to Build Knowledge Models and Views</div>
+              <p class="category">Celonis Academy</p>
+              <p>The earner has successfully passed a Certification Exam demonstrating their ability in: Navigating the Celonis Studio, Conceptual Understanding of Knowledge Models and Views, Building Blocks of Knowledge Models and Views, and Leveraging the YAML Editor.</p>
+                <a class="btn btn-success btn-round btn-lg btn-icon btn-Certificate"  target="_Blank" href="https://www.credly.com/badges/f5c9bbaa-8dfc-4bc4-9a36-1b28293f24cc/public_url"><i class="fa fa-certificate fa-4x"    aria-hidden="true"></i></a>
+            </div>
+          </div>
+          </div>
+        </div>
+        <div class="card">
+          <div class="row">
+            <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
+              <div class="card-body cc-education-header">
+                <p>received - July 2023</p>
+                <div class="h3">Build Action Flows</div>
+              </div>
+            </div>
+            <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
+              <div class="card-body">
+                <div class="h5">Certified to Build Action Flows</div>
+                <p class="category">Celonis Academy</p>
+                <p>The earner has successfully passed a Certification Exam demonstrating their ability in: Action Flow Fundamentals, Action Flow Configuration, and Data Mapping and Validation.</p>
+                  <a class="btn btn-success btn-round btn-lg btn-icon btn-Certificate"  target="_Blank" href="https://www.credly.com/badges/3370aba8-80bb-473c-990c-241a3b83afe8/public_url"><i class="fa fa-certificate fa-4x"    aria-hidden="true"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="card">
+          <div class="row">
+            <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
+              <div class="card-body cc-education-header">
+                <p>received - July 2023</p>
+                <div class="h3">Build Analyses</div>
+              </div>
+            </div>
+            <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
+              <div class="card-body">
+                <div class="h5">Certified to Build Analyses</div>
+                <p class="category">Celonis Academy</p>
+                <p>The earner has successfully passed a Certification Exam demonstrating their ability in: Basic Analysis Setup, Configuring KPIs and Dimensions, Visualization Enhancements, Configuring the Conformance Checker, Applying Background Filters, and Creating Dynamic Analyses.</p>
+                  <a class="btn btn-success btn-round btn-lg btn-icon btn-Certificate"  target="_Blank" href="https://www.credly.com/badges/88a9d979-10b8-44bd-9fe7-d3b5f95e35ec/public_url"><i class="fa fa-certificate fa-4x"    aria-hidden="true"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="card">
+          <div class="row">
+            <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
+              <div class="card-body cc-education-header">
+                <p>received - July 2021</p>
+                <div class="h3">PCEP</div>
+              </div>
+            </div>
+            <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
+              <div class="card-body">
+                <div class="h5">Certified Entry-Level Python Programmer</div>
+                <p class="category">Python Institute</p>
+                <p>Is a professional credential that measures your ability to accomplish coding tasks related to the essentials of programming in the Python language. 
+                  A test candidate should demonstrate sufficient knowledge of the universal concepts of computer programming, the syntax and semantics of the Python 
+                  language as well as the skills in resolving typical implementation challenges with the help of the Python Standard Library.</p>
+                  <a class="btn btn-success btn-round btn-lg btn-icon btn-Certificate"  target="_Blank" href="https://verify.openedg.org/?id=dHXz.C9QL.wfeo"><i class="fa fa-certificate fa-4x"    aria-hidden="true"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="card">
+          <div class="row">
+            <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
+              <div class="card-body cc-education-header">
+                <p>received - December 2021</p>
+                <div class="h3">CLE</div>
+              </div>
+            </div>
+            <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
+              <div class="card-body">
+                <div class="h5">C Certified Entry-Level Programmer</div>
+                <p class="category">C++ Institute</p>
+                <p>shows that the individual is familiar with universal computer programming concepts like compilation, variables, data types, typecasting, 
+                  operators, conditional execution, loops, arrays, pointers, memory management, functions, and the runtime environment.</p>
+                  <a class="btn btn-success btn-round btn-lg btn-icon btn-Certificate"  target="_Blank" href="https://verify.openedg.org/?id=xHVa.Y3Hr.h7Q8"><i class="fa fa-certificate fa-4x"    aria-hidden="true"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!--Referencias-->
+    <div class="section" id="reference">
+      <div class="container cc-reference">
+        <div class="h4 mb-4 text-center title">References</div>
+        <div class="card" data-aos="zoom-in">
+          <div class="carousel slide" id="cc-Indicators" data-ride="carousel">
+            <ol class="carousel-indicators">
+              <li class="active" data-target="#cc-Indicators" data-slide-to="0"></li>
+              <li data-target="#cc-Indicators" data-slide-to="1"></li>
+              <!--<li data-target="#cc-Indicators" data-slide-to="2"></li>-->
+            </ol>
+            <div class="carousel-inner">
+              <!--Papa-->
+              <!--
+              <div class="carousel-item active">
+                <div class="row">
+                  <div class="col-lg-2 col-md-3 cc-reference-header"><img src="https://media-exp1.licdn.com/dms/image/C4D03AQFX9xopPKz_ww/profile-displayphoto-shrink_800_800/0/1516924067982?e=1634169600&v=beta&t=AJPnOO6K-srQXEM9li5HmWKz4vayvMYIPSU2Pj-9ggE" alt="Image"/>
+                    <div class="h5 pt-2">Moises Lopez</div>
+                    <p class="category">Cisco</p>
+                  </div>
+                  <div class="col-lg-10 col-md-9">
+                    <p>NETWORK CONSULTING ENGINEER<br>Cisco Certified Internetwork Expert (CCIE SP): Senior network consultant with more than 10 years of experience on the telecommunication market, 
+                      working in service provider segment with strong knowledge in IP/MPLS and mobile networks, facing roles as design, planning and network engineer. 
+                      Actually focused in network architecture, design, implementation procedures and network programmability.</p>
+                  </div>
+                </div>
+              </div>-->
+              <!--Andres-->
+              <div class="carousel-item active">
+                <div class="row">
+                  <div class="col-lg-2 col-md-3 cc-reference-header"><img src="https://media-exp1.licdn.com/dms/image/C4E03AQEZ0c9pLwg87g/profile-displayphoto-shrink_400_400/0/1621317217711?e=1645056000&v=beta&t=NnBTPWjTs_2YaLCVKfwdpGppLhY9PJQa_RjQuL_b-O0" alt="Image"/>
+                    <div class="h5 pt-2">Andres Galvez</div>
+                    <p class="category">AdsLive Media</p>
+                  </div>
+                  <div class="col-lg-10 col-md-9">
+                    <p>Developer and Tutor<br>Currently a web developer with an emphasis on advergames and advertising campaigns.<br>
+                      I think Mauricio is a type of person that when he has an idea or a task to accomplish, 
+                      you persevere and strive to achieve it. His charisma stands out and his companionship is 
+                      exceptional.</p>
+                  </div>
+                </div>
+              </div>
+              <!--Alex-->
+              <div class="carousel-item">
+                <div class="row">
+                  <div class="col-lg-2 col-md-3 cc-reference-header"><img src="https://media-exp1.licdn.com/dms/image/C4E03AQHmHcaErespsw/profile-displayphoto-shrink_400_400/0/1620107360037?e=1645056000&v=beta&t=m6vuyP2qyyniTTRu6MnNyLG19OIH7Xh6hojjyDioVMA" alt="Image"/>
+                    <div class="h5 pt-2">Alexander Villatoro</div>
+                    <p class="category">Intern at BAM</p>
+                  </div>
+                  <div class="col-lg-10 col-md-9">
+                    <p>He is a dedicated and responsible person with his projects, works well in a team and solves any problem in an efficient, 
+                      simple and detailed way. It meets its times exactly.</p>
+                  </div>
+                </div>
+              </div>
+              <!--Sergio-->
+              <!--
+              <div class="carousel-item">
+                <div class="row">
+                  <div class="col-lg-2 col-md-3 cc-reference-header"><img src="https://media-exp1.licdn.com/dms/image/C4D03AQG730aq7HExbw/profile-displayphoto-shrink_200_200/0/1595564405307?e=1634774400&v=beta&t=Dp17puEA8kNy9To9dinMF2AlK8bnLN9dW_4ICWoTEWQ" alt="Image"/>
+                    <div class="h5 pt-2">Sergio Lara</div>
+                    <p class="category">Business Connect</p>
+                  </div>
+                  <div class="col-lg-10 col-md-9">
+                    <p> Habitasse venenatis commodo tempor eleifend arcu sociis sollicitudin ante pulvinar ad, est porta cras erat ullamcorper volutpat metus duis platea convallis, tortor primis ac quisque etiam luctus nisl nullam fames. Ligula purus suscipit tempus nascetur curabitur donec nam ullamcorper, laoreet nullam mauris dui aptent facilisis neque elementum ac, risus semper felis parturient fringilla rhoncus eleifend.</p>
+                  </div>
+                </div>
+              </div>-->
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!--Mapa de Contact-->
+    <!--<div class="section" id="contact">
+      <div class="cc-contact-information" style="background-image: url('images/staticmap.png'); background-repeat: no-repeat; background-position: center;">
+        <div class="container">
+          <div class="cc-contact">
+            <div class="row">
+              <div class="col-md-9">
+                <div class="card mb-0" data-aos="zoom-in">
+                  <div class="h4 text-center title">Contact Me</div>
+                  <div class="row">
+                    <div class="col-md-6">
+                      <div class="card-body">
+                        <form action="https://formspree.io/your@email.com" method="POST">
+                          <div class="p pb-3"><strong>Feel free to contact me </strong></div>
+                          <div class="row mb-3">
+                            <div class="col">
+                              <div class="input-group"><span class="input-group-addon"><i class="fa fa-user-circle"></i></span>
+                                <input class="form-control" type="text" name="name" placeholder="Name" required="required"/>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="row mb-3">
+                            <div class="col">
+                              <div class="input-group"><span class="input-group-addon"><i class="fa fa-file-text"></i></span>
+                                <input class="form-control" type="text" name="Subject" placeholder="Subject" required="required"/>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="row mb-3">
+                            <div class="col">
+                              <div class="input-group"><span class="input-group-addon"><i class="fa fa-envelope"></i></span>
+                                <input class="form-control" type="email" name="_replyto" placeholder="E-mail" required="required"/>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="row mb-3">
+                            <div class="col">
+                              <div class="form-group">
+                                <textarea class="form-control" name="message" placeholder="Your Message" required="required"></textarea>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="row">
+                            <div class="col">
+                              <button class="btn btn-primary" type="submit">Send</button>
+                            </div>
+                          </div>
+                        </form>
+                      </div>
+                    </div>
+                    <div class="col-md-6">
+                      <div class="card-body">
+                        <p class="mb-0"><strong>Address </strong></p>
+                        <p class="pb-2">Ciudad de Guatemala, Carretera a El Salvador</p>
+                        <p class="mb-0"><strong>Phone</strong></p>
+                        <p class="pb-2">+502 5951-4703</p>
+                        <p class="mb-0"><strong>Email</strong></p>
+                        <p>Mau_lopez0103@hotmail.com</p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div></div>-->
+        </div>
+        <footer class="footer">
+          <div class="container text-center">
+            <a class="cc-facebook btn btn-link"     target="_Blank" href="https://www.facebook.com/mauricioalejandro.lopezmonserratt"     ><i class="fa fa-facebook fa-2x "   aria-hidden="true"></i></a>
+            <a class="cc-twitter btn btn-link "     target="_Blank" href="https://twitter.com/ImMaur0103"                                 ><i class="fa fa-twitter fa-2x "    aria-hidden="true"></i></a>
+            <a class="cc-linkedin btn btn-link"     target="_Blank" href="https://www.linkedin.com/in/mauricio-alejandro-lopez-445134197/"><i class="fa fa-linkedin fa-2x"    aria-hidden="true"></i></a>
+            <a class="cc-instagram btn btn-link"    target="_Blank" href="https://www.instagram.com/mauricio_lopez0103/"                  ><i class="fa fa-instagram fa-2x "  aria-hidden="true"></i></a>
+          </div>
+          <div class="h4 title text-center">Mauricio Alejandro Lopez Monserratt</div>
+          <div class="text-center text-muted">
+            <p>&copy; Creative CV. All rights reserved.<br>Edit - Mauricio Lopez<br>Design - <a class="credit" href="https://templateflip.com" target="_blank">TemplateFlip</a></p>
+          </div>
+        </footer>
+        <script src="js/core/jquery.3.2.1.min.js?ver=1.1.0"></script>
+        <script src="js/core/popper.min.js?ver=1.1.0"></script>
+        <script src="js/core/bootstrap.min.js?ver=1.1.0"></script>
+        <script src="js/now-ui-kit.js?ver=1.1.0"></script>
+        <script src="js/aos.js?ver=1.1.0"></script>
+        <script src="scripts/main.js?ver=1.1.0"></script>
+      </body>
+    </html>
