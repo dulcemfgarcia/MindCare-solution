@@ -1,14 +1,23 @@
 const express = require("express"),
-    path = require("path"),
-    app = express(),
-    puerto = 3000;
+path = require("path"),
+app = express(),
+puerto = 3000;
 
-app.get('/', (peticion, respuesta) => {
-    // Podemos acceder a la petición HTTP
-    // Servir archivo HTML, o cualquier otro archivo
-    let rutaDeArchivo = path.join(__dirname, "index.html");
-    respuesta.sendFile(rutaDeArchivo);
-});
+
+// view engine setup
+app.set('views', path.join(__dirname, 'views'));
+app.set('view engine', 'hjs');
+app.use(express.static('css'));
+app.use(express.static(path.join(__dirname, 'public')));
+app.set('view options', { layout: 'layout' });
+app.set("view engine", "hjs");
+app.use(express.json());
+app.use(express.urlencoded({ extended: false }));
+app.use(express.static(path.join(__dirname, 'public')));
+
+app.get("/", function(req, res) {
+    res.render("index"); 
+  });
 app.get('/pagina', (peticion, respuesta) => {
     // Servir archivo HTML, o cualquier otro archivo
     let rutaDeArchivo = path.join(__dirname, "plantilla.html");
@@ -33,3 +42,4 @@ app.listen(puerto, err => {
     // Si no se detuvo arriba con el return, entonces todo va bien ;)
     console.log(`Escuchando en el puerto :${puerto}`);
 });
+module.exports = app;
